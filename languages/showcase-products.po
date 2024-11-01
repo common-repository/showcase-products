@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Showcase products\n"
+"POT-Creation-Date: 2015-08-17 15:36+0530\n"
+"PO-Revision-Date: 2015-08-17 15:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: gl <anupasurendran@gmail.com>\n"
+"Language: ENGLISH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;_x\n"
+"X-Poedit-Basepath: /var/www/html/wp4/wp-content/plugins/showcase-products\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /var/www/html/wp4/wp-content/plugins/showcase-"
+"products\n"
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:33 copy).php:43 (copy).php:33 (copy).php:43
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:33
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:43
+#: (anothersecond
+msgid "Products"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:34 (copy).php:34
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:34
+#: (anothersecond
+msgid "Product"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:35 (copy).php:35
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:35
+#: (anothersecond
+msgid "Add New "
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:36 (copy).php:36
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:36
+#: (anothersecond
+msgid "Add New Product"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:37 (copy).php:37
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:37
+#: (anothersecond
+msgid "Edit Product"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:38 (copy).php:38
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:38
+#: (anothersecond
+msgid "New Product"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:39 (copy).php:39
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:39
+#: (anothersecond
+msgid "View Product"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:40 (copy).php:40
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:40
+#: (anothersecond
+msgid "Search Products"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:41 (copy).php:41
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:41
+#: (anothersecond
+msgid "No Products found"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:42 (copy).php:42
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:42
+#: (anothersecond
+msgid "No Products found in Trash"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:77 (copy).php:78
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:77
+#: (anothersecond
+msgid "Products Categories"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:90 (copy).php:92
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:90
+#: (anothersecond
+msgid "Product Price"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:91 (copy).php:94
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:91
+#: (anothersecond
+msgid "Product Short Description"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products
+#: (third copy).php:314
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/showcase-products.php:305
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/templates/archive.php:34
+msgid "F Y"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/templates/archive.php:37
+msgid "Y"
+msgstr ""
+
+#: /var/www/html/wp4/wp-content/plugins/showcase-products/templates/archive.php:40
+msgid "Archives"
+msgstr ""

@@ -1,0 +1,81 @@
+.fade {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .fade:hover {
+      opacity: 0.5;
+      }
+.sp_productslist{}
+.sp_productslist ul {list-style-type:none;}
+.sp_productslist ul li {width:200px;float:left; list-style:none;}
+/*-----*/
+.product-details{
+	overflow:hidden;
+}
+
+#reviews {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.product-details {
+  margin-bottom: 40px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+.custom-pagination span,
+.custom-pagination a {
+  display: inline-block;
+  padding: 2px 10px;
+}
+.custom-pagination a {
+  background-color: #ebebeb;
+  color: #ff3c50;
+}
+.custom-pagination a:hover {
+  background-color: #ff3c50;
+  color: #fff;
+}
+.custom-pagination span.page-num {
+  margin-right: 10px;
+  padding: 0;
+}
+.custom-pagination span.dots {
+  padding: 0;
+  color: gainsboro;
+}
+.custom-pagination span.current {
+  background-color: #ff3c50;
+  color: #fff;
+}
+
+
+
+.cat-list h3.title{
+    border: none;
+    color:red;
+    bottom: 8px;
+    font-size:15px;
+    content: " ";
+  text-align: center;
+    text-transform: uppercase;
+    
+    width: 100%;
+
+}
+.cat-list{    border: 0px solid #f7f7f0;
+    margin-bottom: 35px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    }
+   
+.cat-list ul{margin:0 0 10px 15px;} 
+.cat-list li{list-style:none; list-style:url('../images/arrow.gif');}
+.cat-list li a{text-transform:uppercase;
+color:#696763;}
+cat-list li ul {margin:0 0 10px 15px;}
+cat-list li ul li{}
+cat-list li ul li a{color:#000;}
